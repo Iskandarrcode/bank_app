@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101397893438",
+    "project_id": "online-bank-970cc",
+    "storage_bucket": "online-bank-970cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101397893438:android:af7999e42a14d797df9c6f",
+        "android_client_info": {
+          "package_name": "com.example.online_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmzQDcKhPg6SmKkpI4KWFYCOhLCMPlo8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

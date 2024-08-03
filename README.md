@@ -1,17 +1,9 @@
 # online_bank
 
 A new Flutter project.
+Online bank ilovasi 
+Bloc State Management
+Bloc Arxitektura
+Firebase date base ga barcha malumotlar saqlanadi
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# bank_app
+[Screencast from 03-08-24 13:17:14.webm](https://github.com/user-attachments/assets/45a67b3d-d6e4-41f1-98b0-7c3ad7d0e00f)
